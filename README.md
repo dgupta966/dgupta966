@@ -2,13 +2,19 @@
 
 <h1 align="center"> Hi there, I'm Deepak Gupta 👋 </h1>
 
-<h3 align="center"> I'm a Developer and Teacher!!</h3>
+<h3 align="center"> I'm a Web Developer and Teacher!!</h3>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to cook and play badminton
 
 <br />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/deepakgupta" height="30" width="40" /></a>
+</p>
+
 
 ### Languages and Tools:
 
