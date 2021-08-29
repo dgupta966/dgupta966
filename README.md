@@ -1,4 +1,4 @@
-<img src="https://www.propatel.com/wp-content/uploads/2019/09/coding-and-testing-programming-of-software.jpg" width="960" height="440" alt="IMAGE"/>
+<img src="https://www.propatel.com/wp-content/uploads/2019/09/coding-and-testing-programming-of-software.jpg" width="960" height="340" alt="IMAGE"/>
 
 <h1 align="center"> Hi there, I'm Deepak Gupta 👋 </h1>
 
